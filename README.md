@@ -1,2 +1,2 @@
 # proyecto-1
-Guitar Hero
+Guitar Hero, es un juego novedoso para que lleves a cabo tu pasión por la musica, eres lo suficientemente rapido para superar los 10.000 puntos?, solo deberás seleccionar el botón de comenzar juego para que inicie la canción y puedas seleccionar la letra que corresponda cuando la particula se este acercando al botón mencionado anteriormente. si deseas puedes parar, solo oprimiendo el boton de pausar podrás tomarte un descanso o en su defecto volver al menú.
